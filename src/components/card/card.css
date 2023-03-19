@@ -1,0 +1,9 @@
+.card__container {
+  padding: 16px;
+  border-radius: 4px;
+  border: solid 1px grey;
+}
+
+.card + .card {
+  margin-top: 16px;
+}
